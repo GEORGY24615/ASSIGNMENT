@@ -1,0 +1,1 @@
+print("How many letters are in the name:"+input("What is your name?"))
